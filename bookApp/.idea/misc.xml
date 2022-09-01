@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout-w1240dp/wode_login.xml" value="0.14375" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout-w936dp/wode_login.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout-wode/activity_wode_fragment.xml" value="0.23796296296296296" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_button.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_shucheng_fragment.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_shucheng_list.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_shujia.xml" value="0.22" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_shujia_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_shujia_fragment_recy.xml" value="0.2" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_shujia_list.xml" value="0.2967313585291113" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_shujia_recy.xml" value="0.1437308868501529" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_shujia_recy_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_test_data.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_text_b.xml" value="0.32431052093973445" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/activity_wode_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/admin_index.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/book_content.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/book_item.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/book_item2.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/books_item.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/shujia_2_change.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/shujia_change.xml" value="0.18" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/shujia_change2.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/shujia_nologin_fragment.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/test_alert.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/test_data.xml" value="0.15625" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/test_frament.xml" value="0.2015625" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/user_item.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/wode_admin_login.xml" value="0.3037037037037037" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/wode_change.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/wode_exit.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/wode_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/wode_login.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/layout/wode_register.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/menu/shujia_menu.xml" value="0.228125" />
+        <entry key="..\:/Users/Administrator/Desktop/workpace/bookApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.296" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

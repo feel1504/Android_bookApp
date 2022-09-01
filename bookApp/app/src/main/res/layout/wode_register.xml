@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/design_default_color_secondary">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+        <TextView
+            android:id="@+id/login1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="40dp"
+            android:paddingTop="20dp"
+            android:text="欢迎注册"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/login_background"/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/a"
+            android:layout_width="60sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:text="用户名：" />
+
+        <EditText
+            android:id="@+id/account_r"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="xxxx@xx.com" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/b"
+            android:layout_width="60sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:text="密    码：" />
+        <EditText
+            android:id="@+id/password_r"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:password="true"
+            android:hint="请输入你的密码"/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/c"
+            android:layout_width="60sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:text="密    码：" />
+        <EditText
+            android:id="@+id/re_password_r"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:password="true"
+            android:hint="请确认你的密码"/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:id="@+id/btn_register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="50sp"
+            android:layout_marginTop="20sp"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:text="注册"/>
+    </LinearLayout>
+
+</LinearLayout>

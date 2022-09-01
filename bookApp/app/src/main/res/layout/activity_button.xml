@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_gravity="bottom"
+    android:baselineAligned="true">
+
+    <LinearLayout
+        android:id="@+id/controller_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/shujia"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:padding="3dp">
+
+            <ImageView
+                android:id="@+id/shujia_img"
+                android:layout_width="wrap_content"
+                android:layout_height="24dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/sj" />
+
+            <TextView
+                android:id="@+id/shujia_text"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="top"
+                android:text="书架"
+                android:textColor="#82858b"
+                android:textSize="13dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/shucheng"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:padding="3dp">
+
+            <ImageView
+                android:id="@+id/shucheng_img"
+                android:layout_width="wrap_content"
+                android:layout_height="24dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/sc" />
+
+            <TextView
+                android:id="@+id/shucheng_text"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="top"
+                android:text="书城"
+                android:textColor="#82858b"
+                android:textSize="13dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/faxian"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:padding="3dp">
+
+            <ImageView
+                android:id="@+id/faxian_img"
+                android:layout_width="wrap_content"
+                android:layout_height="24dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/fx" />
+
+            <TextView
+                android:id="@+id/faxian_text"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="top"
+                android:text="发现"
+                android:textColor="#82858b"
+                android:textSize="13dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/wode"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:padding="3dp">
+
+            <ImageView
+                android:id="@+id/wode_img"
+                android:layout_width="wrap_content"
+                android:layout_height="24dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/wd" />
+            <TextView
+                android:id="@+id/wode_text"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="top"
+                android:text="我的"
+                android:textColor="#82858b"
+                android:textSize="13dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
